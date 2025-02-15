@@ -63,3 +63,14 @@ button:hover{
     background-color: rgb(2, 41, 41);
     color: aliceblue;
 }
+
+.link{
+    width: 150px;
+    height: 30px;
+    background-color: aqua;
+}
+
+.link:hover{
+background-color: black;
+color: aliceblue;
+}
